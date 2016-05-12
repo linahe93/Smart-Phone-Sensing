@@ -6,4 +6,4 @@ activity.m is to identify the states.
 
 2. Import data for static state to matlab, obtaining *accx_dym*, *accy_dym*, *accz_dym*.
 
-Than execute acc.m
+Than execute activity.m
